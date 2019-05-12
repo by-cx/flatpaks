@@ -1,0 +1,6 @@
+.flatpak-builder/
+.history/
+.vscode/
+build-dir/
+repo/
+*.flatpak
